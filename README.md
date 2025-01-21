@@ -10,16 +10,7 @@ This mod aims to improve the replayability of the game Starsector.
 
 ### Done
 
-   #### <span style="color:Orange;"> Randomizing of the Coreworlds without breaking of missions </span>
-   - Repositioning
-   - Changing of uninhabited planets
-   - Partial changing of inhabited worlds 
-
- 
-   #### <span style="color:Orange;">Repositioning of Mod factions</span>
-   - either to the core or just around the map
-   - maintain each AI faction systems grouped (WIP)
-   - moves UAF to the border of deep hyperspace (WIP) 
+   #### <span style="color:Orange;"> Randomizing of system positions without breaking of missions </span> 
  
  
    #### <span style="color:Orange;">Disabling access penalties for distance from the core worlds  </span>
@@ -46,6 +37,18 @@ This mod aims to improve the replayability of the game Starsector.
 
 
 ### WIP
+
+
+   #### <span style="color:Orange;"> Randomizing of the Coreworlds without breaking of missions </span> 
+   - Repositioning
+   - Changing of uninhabited planets
+   - Partial changing of inhabited worlds 
+
+ 
+   #### <span style="color:Orange;">Repositioning of Mod factions</span>
+   - either to the core or just around the map
+   - maintain each AI faction systems grouped (WIP)
+   - moves UAF to the border of deep hyperspace (WIP) 
 
    #### <span style="color:Orange;">Custom Start Bonuses</span>
    - X amount of hyperspace terrain data (0 to 700 to unlock the skills)
