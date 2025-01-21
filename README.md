@@ -26,10 +26,6 @@ This mod aims to improve the replayability of the game Starsector.
     -![A_Name](graphics/icons/markets/xcw_placeholder.png "This text is shown on hover")
     ```html  <img src="graphics/icons/markets/xcw_placeholder.png" alt="A_Name" title="This text is shown on hover" />``` 
 
-
-
-### WIP
-
 #### Custom Start Bonuses
     - Fathers Logbook
         - preliminary survey data / full survey data of X(0-100) percent of planets
@@ -42,6 +38,10 @@ This mod aims to improve the replayability of the game Starsector.
         - you get automated ship points per player level
         - debuff that makes all ships with crew requirements above 0 have a max cr of 10 and peak combat time of 10 seconds
         - Remnants hate you and send fleets to eliminate the error that was your birth
+
+
+### WIP
+
 
 
 #### Colony Crisis speed modifier (increase or decrease point gain by a factor)
