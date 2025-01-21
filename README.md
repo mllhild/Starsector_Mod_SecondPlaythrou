@@ -23,13 +23,12 @@ This mod aims to improve the replayability of the game Starsector.
  
  
    #### <span style="color:Orange;">Disabling access penalties for distance from the core worlds  </span>
-   - <img src="graphics/icons/markets/xcw_placeholder.png" alt="A_Name" title="This text is shown on hover" width="20" /> 10% Access bonus per 5000su from center of sector 
+   - <img src="readme_files/spm_accessbonus5.png" alt="A_Name" title="This text is shown on hover" width="20" /> 10% Access bonus per 5000su from center of sector 
     
-
-### WIP
 
    #### <span style="color:Orange;">Limit Free Storage</span>
    - add limit to free storage or remove it completely, depending on what is more viable
+
 
    #### <span style="color:Orange;">Custom Start Bonuses</span>
    - <img src="graphics/icons/cargo/xwc_fathers_logbook.png" alt="A_Name" title="This text is shown on hover" width="20" /> Fathers Logbook
@@ -39,23 +38,29 @@ This mod aims to improve the replayability of the game Starsector.
       - known location of cryosleepers
       - X amount of hyperspace terrain data (0 to 700 to unlock the skills)
 
-   - Defect Remnant Start
-      - you can pilot ai ships
-      - you get automated ship points per player level
-      - debuff that makes all ships with crew requirements above 0 have a max cr of 10 and peak combat time of 10 seconds
-      - Remnants hate you and send fleets to eliminate the error that was your birth
-
-
-   #### <span style="color:Orange;">Colony Crisis speed modifier (increase or decrease point gain by a factor)</span>
-   - maybe scaling considering colony size, but Im not certain if possible
-
-
    #### <span style="color:Orange;">Permanent Wars</span>
    - all vanilla factions hate you
    - all non vanilla factions hate you
    - Total War (everyone hates everyone)
    - faction list vs faction list (see faction name help file for how to write the names)
 
+
+### WIP
+
+   #### <span style="color:Orange;">Custom Start Bonuses</span>
+   - X amount of hyperspace terrain data (0 to 700 to unlock the skills)
+      
+   - Defect Remnant Start (Moved to its own mod)
+      - you can pilot ai ships
+      - you get automated ship points per player level
+      - debuff that makes all ships with crew requirements above 0 have a max cr of 10 and peak combat time of 10 seconds
+      - Remnants hate you and send fleets to eliminate the error that was your birth
+   
+   - Super Weapons Arsenal revival (Moved to its own mod)
+
+   #### <span style="color:Orange;">Colony Crisis speed modifier (increase or decrease point gain by a factor)</span>
+   - maybe scaling considering colony size, but Im not certain if possible
+ 
 
    #### <span style="color:Orange;">Player Reknown </span>
    Affects only FleetPoints ratings for autoresolve)
@@ -77,9 +82,13 @@ This mod aims to improve the replayability of the game Starsector.
 
 
    #### <span style="color:Orange;">Faction Banners</span>
-   - sdsds
+   - I want to draw some flags
 
+   #### <span style="color:Orange;">Vanilla complient, but nicer portraits</span>
+   - Less ugly feminazi female looks and more normal women that know how to use make-up as a weapon.
 
+   #### <span style="color:Orange;">Islands in the Abyss</span>
+   - kinda already implemented on a technical level, but too lazy to make them pretty 
 
 ## FAQ
 
@@ -88,7 +97,7 @@ This mod aims to improve the replayability of the game Starsector.
 ## Dependencies
 - [LunaLib]
 - [LazyLib] 
-- [MagicLib]
+- [MagicLib] ()
 
 ## Other
 
