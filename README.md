@@ -26,12 +26,6 @@ This mod aims to improve the replayability of the game Starsector.
     -![A_Name](graphics/icons/markets/xcw_placeholder.png "This text is shown on hover")
     ```html  <img src="graphics/icons/markets/xcw_placeholder.png" alt="A_Name" title="This text is shown on hover" />``` 
 
-#### Disabling access penalties for distance from the core worlds
-
-```html
-<img src="graphics/icons/markets/xcw_placeholder.png" alt="A_Name" title="This text is shown on hover" />
-
-
 
 
 ### WIP
