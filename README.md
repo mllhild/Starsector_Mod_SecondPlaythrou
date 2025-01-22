@@ -1,6 +1,6 @@
 # Second Playthrou - a Starsector Mod
 
-v0.1.0
+v0.2.1
 
 ## Description
 
